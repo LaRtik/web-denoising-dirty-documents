@@ -1,0 +1,30 @@
+{% extends "header.html" %}
+
+{% block content %}
+
+<h1>History of image processes</h1>
+<h3>Total scanned documents: {{ documents | length }}</h3>
+<table class='table table-stripped'>
+	<thead>
+		<tr>
+			<th scope="col">ID</th>
+			<th scope="col">Result</th>
+			<th scope="col">Timestamp</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for document in documents %}
+		<tr>
+			<th scope="row">{{ document.id }}</th>
+			<td>
+				{% url 'result' document.id as url %}
+				<a class="nav-link" href="{{ url }}"> {{ url }}</a>
+			</td>
+			<td>{{ document.timestamp }}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+
+</table>
+
+{% endblock %}

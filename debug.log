@@ -1,0 +1,993 @@
+2023-05-30 14:41:18,689 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 14:41:20,356 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 14:41:20,669 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 14:41:20,670 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 14:41:20,670 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 14:41:20,670 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 14:53:08,840 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 14:53:09,161 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 14:53:09,162 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 14:53:09,162 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 14:53:09,163 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 14:53:21,396 matplotlib   DEBUG    matplotlib data path: D:\study\denoising-dirty-documents\venv\lib\site-packages\matplotlib\mpl-data
+2023-05-30 14:53:21,434 matplotlib   DEBUG    CONFIGDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 14:53:21,437 matplotlib   DEBUG    interactive is False
+2023-05-30 14:53:21,438 matplotlib   DEBUG    platform is win32
+2023-05-30 14:53:21,516 matplotlib   DEBUG    CACHEDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 14:53:21,538 matplotlib.font_manager DEBUG    Using fontManager instance from C:\Users\ilazu\.matplotlib\fontlist-v330.json
+2023-05-30 14:54:50,815 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 14:54:53,576 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 14:54:54,042 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 14:54:54,043 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 14:54:54,043 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 14:54:54,043 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 14:54:56,691 matplotlib   DEBUG    matplotlib data path: D:\study\denoising-dirty-documents\venv\lib\site-packages\matplotlib\mpl-data
+2023-05-30 14:54:56,710 matplotlib   DEBUG    CONFIGDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 14:54:56,713 matplotlib   DEBUG    interactive is False
+2023-05-30 14:54:56,713 matplotlib   DEBUG    platform is win32
+2023-05-30 14:54:56,785 matplotlib   DEBUG    CACHEDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 14:54:56,790 matplotlib.font_manager DEBUG    Using fontManager instance from C:\Users\ilazu\.matplotlib\fontlist-v330.json
+2023-05-30 14:55:22,115 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 14:55:22,115 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 14:55:22,116 PIL.Image    DEBUG    Importing BlpImagePlugin
+2023-05-30 14:55:22,118 PIL.Image    DEBUG    Importing BmpImagePlugin
+2023-05-30 14:55:22,118 PIL.Image    DEBUG    Importing BufrStubImagePlugin
+2023-05-30 14:55:22,119 PIL.Image    DEBUG    Importing CurImagePlugin
+2023-05-30 14:55:22,121 PIL.Image    DEBUG    Importing DcxImagePlugin
+2023-05-30 14:55:22,124 PIL.Image    DEBUG    Importing DdsImagePlugin
+2023-05-30 14:55:22,126 PIL.Image    DEBUG    Importing EpsImagePlugin
+2023-05-30 14:55:22,183 PIL.Image    DEBUG    Importing FitsImagePlugin
+2023-05-30 14:55:22,185 PIL.Image    DEBUG    Importing FitsStubImagePlugin
+2023-05-30 14:55:22,187 PIL.Image    DEBUG    Importing FliImagePlugin
+2023-05-30 14:55:22,188 PIL.Image    DEBUG    Importing FpxImagePlugin
+2023-05-30 14:55:22,189 PIL.Image    DEBUG    Image: failed to import FpxImagePlugin: No module named 'olefile'
+2023-05-30 14:55:22,190 PIL.Image    DEBUG    Importing FtexImagePlugin
+2023-05-30 14:55:22,192 PIL.Image    DEBUG    Importing GbrImagePlugin
+2023-05-30 14:55:22,194 PIL.Image    DEBUG    Importing GifImagePlugin
+2023-05-30 14:55:22,194 PIL.Image    DEBUG    Importing GribStubImagePlugin
+2023-05-30 14:55:22,196 PIL.Image    DEBUG    Importing Hdf5StubImagePlugin
+2023-05-30 14:55:22,198 PIL.Image    DEBUG    Importing IcnsImagePlugin
+2023-05-30 14:55:22,202 PIL.Image    DEBUG    Importing IcoImagePlugin
+2023-05-30 14:55:22,203 PIL.Image    DEBUG    Importing ImImagePlugin
+2023-05-30 14:55:22,205 PIL.Image    DEBUG    Importing ImtImagePlugin
+2023-05-30 14:55:22,206 PIL.Image    DEBUG    Importing IptcImagePlugin
+2023-05-30 14:55:22,209 PIL.Image    DEBUG    Importing JpegImagePlugin
+2023-05-30 14:55:22,209 PIL.Image    DEBUG    Importing Jpeg2KImagePlugin
+2023-05-30 14:55:22,210 PIL.Image    DEBUG    Importing McIdasImagePlugin
+2023-05-30 14:55:22,211 PIL.Image    DEBUG    Importing MicImagePlugin
+2023-05-30 14:55:22,213 PIL.Image    DEBUG    Image: failed to import MicImagePlugin: No module named 'olefile'
+2023-05-30 14:55:22,214 PIL.Image    DEBUG    Importing MpegImagePlugin
+2023-05-30 14:55:22,216 PIL.Image    DEBUG    Importing MpoImagePlugin
+2023-05-30 14:55:22,220 PIL.Image    DEBUG    Importing MspImagePlugin
+2023-05-30 14:55:22,222 PIL.Image    DEBUG    Importing PalmImagePlugin
+2023-05-30 14:55:22,223 PIL.Image    DEBUG    Importing PcdImagePlugin
+2023-05-30 14:55:22,226 PIL.Image    DEBUG    Importing PcxImagePlugin
+2023-05-30 14:55:22,226 PIL.Image    DEBUG    Importing PdfImagePlugin
+2023-05-30 14:55:22,236 PIL.Image    DEBUG    Importing PixarImagePlugin
+2023-05-30 14:55:22,237 PIL.Image    DEBUG    Importing PngImagePlugin
+2023-05-30 14:55:22,238 PIL.Image    DEBUG    Importing PpmImagePlugin
+2023-05-30 14:55:22,238 PIL.Image    DEBUG    Importing PsdImagePlugin
+2023-05-30 14:55:22,239 PIL.Image    DEBUG    Importing QoiImagePlugin
+2023-05-30 14:55:22,241 PIL.Image    DEBUG    Importing SgiImagePlugin
+2023-05-30 14:55:22,243 PIL.Image    DEBUG    Importing SpiderImagePlugin
+2023-05-30 14:55:22,245 PIL.Image    DEBUG    Importing SunImagePlugin
+2023-05-30 14:55:22,247 PIL.Image    DEBUG    Importing TgaImagePlugin
+2023-05-30 14:55:22,249 PIL.Image    DEBUG    Importing TiffImagePlugin
+2023-05-30 14:55:22,249 PIL.Image    DEBUG    Importing WebPImagePlugin
+2023-05-30 14:55:22,251 PIL.Image    DEBUG    Importing WmfImagePlugin
+2023-05-30 14:55:22,252 PIL.Image    DEBUG    Importing XbmImagePlugin
+2023-05-30 14:55:22,254 PIL.Image    DEBUG    Importing XpmImagePlugin
+2023-05-30 14:55:22,255 PIL.Image    DEBUG    Importing XVThumbImagePlugin
+2023-05-30 14:55:22,438 django.request ERROR    Internal Server Error: /upload
+Traceback (most recent call last):
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: table documents_documents has no column named image_text
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\study\denoising-dirty-documents\denoisingdocuments\documents\views.py", line 66, in upload
+    instance.save()
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1820, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: table documents_documents has no column named image_text
+2023-05-30 14:55:44,259 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 14:55:44,569 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 14:55:44,569 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 14:55:44,569 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 14:55:44,569 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 14:55:47,019 matplotlib   DEBUG    matplotlib data path: D:\study\denoising-dirty-documents\venv\lib\site-packages\matplotlib\mpl-data
+2023-05-30 14:55:47,037 matplotlib   DEBUG    CONFIGDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 14:55:47,039 matplotlib   DEBUG    interactive is False
+2023-05-30 14:55:47,040 matplotlib   DEBUG    platform is win32
+2023-05-30 14:55:47,111 matplotlib   DEBUG    CACHEDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 14:55:47,120 matplotlib.font_manager DEBUG    Using fontManager instance from C:\Users\ilazu\.matplotlib\fontlist-v330.json
+2023-05-30 14:56:08,284 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 14:56:09,982 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 14:56:10,266 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 14:56:10,266 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 14:56:10,266 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 14:56:10,266 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 14:56:12,898 matplotlib   DEBUG    matplotlib data path: D:\study\denoising-dirty-documents\venv\lib\site-packages\matplotlib\mpl-data
+2023-05-30 14:56:12,909 matplotlib   DEBUG    CONFIGDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 14:56:12,912 matplotlib   DEBUG    interactive is False
+2023-05-30 14:56:12,912 matplotlib   DEBUG    platform is win32
+2023-05-30 14:56:13,002 matplotlib   DEBUG    CACHEDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 14:56:13,007 matplotlib.font_manager DEBUG    Using fontManager instance from C:\Users\ilazu\.matplotlib\fontlist-v330.json
+2023-05-30 14:56:35,656 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 14:56:35,656 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 14:56:35,657 PIL.Image    DEBUG    Importing BlpImagePlugin
+2023-05-30 14:56:35,659 PIL.Image    DEBUG    Importing BmpImagePlugin
+2023-05-30 14:56:35,659 PIL.Image    DEBUG    Importing BufrStubImagePlugin
+2023-05-30 14:56:35,660 PIL.Image    DEBUG    Importing CurImagePlugin
+2023-05-30 14:56:35,662 PIL.Image    DEBUG    Importing DcxImagePlugin
+2023-05-30 14:56:35,664 PIL.Image    DEBUG    Importing DdsImagePlugin
+2023-05-30 14:56:35,668 PIL.Image    DEBUG    Importing EpsImagePlugin
+2023-05-30 14:56:35,722 PIL.Image    DEBUG    Importing FitsImagePlugin
+2023-05-30 14:56:35,723 PIL.Image    DEBUG    Importing FitsStubImagePlugin
+2023-05-30 14:56:35,725 PIL.Image    DEBUG    Importing FliImagePlugin
+2023-05-30 14:56:35,727 PIL.Image    DEBUG    Importing FpxImagePlugin
+2023-05-30 14:56:35,730 PIL.Image    DEBUG    Image: failed to import FpxImagePlugin: No module named 'olefile'
+2023-05-30 14:56:35,730 PIL.Image    DEBUG    Importing FtexImagePlugin
+2023-05-30 14:56:35,732 PIL.Image    DEBUG    Importing GbrImagePlugin
+2023-05-30 14:56:35,734 PIL.Image    DEBUG    Importing GifImagePlugin
+2023-05-30 14:56:35,735 PIL.Image    DEBUG    Importing GribStubImagePlugin
+2023-05-30 14:56:35,736 PIL.Image    DEBUG    Importing Hdf5StubImagePlugin
+2023-05-30 14:56:35,738 PIL.Image    DEBUG    Importing IcnsImagePlugin
+2023-05-30 14:56:35,740 PIL.Image    DEBUG    Importing IcoImagePlugin
+2023-05-30 14:56:35,742 PIL.Image    DEBUG    Importing ImImagePlugin
+2023-05-30 14:56:35,743 PIL.Image    DEBUG    Importing ImtImagePlugin
+2023-05-30 14:56:35,744 PIL.Image    DEBUG    Importing IptcImagePlugin
+2023-05-30 14:56:35,745 PIL.Image    DEBUG    Importing JpegImagePlugin
+2023-05-30 14:56:35,746 PIL.Image    DEBUG    Importing Jpeg2KImagePlugin
+2023-05-30 14:56:35,746 PIL.Image    DEBUG    Importing McIdasImagePlugin
+2023-05-30 14:56:35,747 PIL.Image    DEBUG    Importing MicImagePlugin
+2023-05-30 14:56:35,749 PIL.Image    DEBUG    Image: failed to import MicImagePlugin: No module named 'olefile'
+2023-05-30 14:56:35,750 PIL.Image    DEBUG    Importing MpegImagePlugin
+2023-05-30 14:56:35,752 PIL.Image    DEBUG    Importing MpoImagePlugin
+2023-05-30 14:56:35,756 PIL.Image    DEBUG    Importing MspImagePlugin
+2023-05-30 14:56:35,758 PIL.Image    DEBUG    Importing PalmImagePlugin
+2023-05-30 14:56:35,759 PIL.Image    DEBUG    Importing PcdImagePlugin
+2023-05-30 14:56:35,761 PIL.Image    DEBUG    Importing PcxImagePlugin
+2023-05-30 14:56:35,761 PIL.Image    DEBUG    Importing PdfImagePlugin
+2023-05-30 14:56:35,769 PIL.Image    DEBUG    Importing PixarImagePlugin
+2023-05-30 14:56:35,771 PIL.Image    DEBUG    Importing PngImagePlugin
+2023-05-30 14:56:35,771 PIL.Image    DEBUG    Importing PpmImagePlugin
+2023-05-30 14:56:35,772 PIL.Image    DEBUG    Importing PsdImagePlugin
+2023-05-30 14:56:35,773 PIL.Image    DEBUG    Importing QoiImagePlugin
+2023-05-30 14:56:35,775 PIL.Image    DEBUG    Importing SgiImagePlugin
+2023-05-30 14:56:35,776 PIL.Image    DEBUG    Importing SpiderImagePlugin
+2023-05-30 14:56:35,777 PIL.Image    DEBUG    Importing SunImagePlugin
+2023-05-30 14:56:35,778 PIL.Image    DEBUG    Importing TgaImagePlugin
+2023-05-30 14:56:35,779 PIL.Image    DEBUG    Importing TiffImagePlugin
+2023-05-30 14:56:35,780 PIL.Image    DEBUG    Importing WebPImagePlugin
+2023-05-30 14:56:35,782 PIL.Image    DEBUG    Importing WmfImagePlugin
+2023-05-30 14:56:35,784 PIL.Image    DEBUG    Importing XbmImagePlugin
+2023-05-30 14:56:35,786 PIL.Image    DEBUG    Importing XpmImagePlugin
+2023-05-30 14:56:35,788 PIL.Image    DEBUG    Importing XVThumbImagePlugin
+2023-05-30 14:56:37,219 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 14:56:37,220 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 14:57:35,581 h5py._conv   DEBUG    Creating converter from 3 to 5
+2023-05-30 14:57:44,885 django.request ERROR    Internal Server Error: /upload
+Traceback (most recent call last):
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\study\denoising-dirty-documents\denoisingdocuments\documents\views.py", line 67, in upload
+    instance.result_image, instance.image_text = clear_image(instance.image.url)
+  File "D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py", line 103, in clear_image
+    image = [keras_ocr.tools.read(f'{image_path[:-4]} + "_result.png"')]
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\keras_ocr\tools.py", line 34, in read
+    assert os.path.isfile(filepath_or_buffer), (
+AssertionError: Could not find image at path: .//media/58 + "_result.png"
+2023-05-30 14:58:24,948 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 14:58:26,435 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 14:58:33,257 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 14:58:33,543 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 14:58:33,543 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 14:58:33,543 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 14:58:33,543 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 14:58:35,867 matplotlib   DEBUG    matplotlib data path: D:\study\denoising-dirty-documents\venv\lib\site-packages\matplotlib\mpl-data
+2023-05-30 14:58:35,885 matplotlib   DEBUG    CONFIGDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 14:58:35,887 matplotlib   DEBUG    interactive is False
+2023-05-30 14:58:35,887 matplotlib   DEBUG    platform is win32
+2023-05-30 14:58:35,961 matplotlib   DEBUG    CACHEDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 14:58:35,966 matplotlib.font_manager DEBUG    Using fontManager instance from C:\Users\ilazu\.matplotlib\fontlist-v330.json
+2023-05-30 14:58:45,806 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 14:58:45,806 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 14:58:45,806 PIL.Image    DEBUG    Importing BlpImagePlugin
+2023-05-30 14:58:45,818 PIL.Image    DEBUG    Importing BmpImagePlugin
+2023-05-30 14:58:45,818 PIL.Image    DEBUG    Importing BufrStubImagePlugin
+2023-05-30 14:58:45,820 PIL.Image    DEBUG    Importing CurImagePlugin
+2023-05-30 14:58:45,822 PIL.Image    DEBUG    Importing DcxImagePlugin
+2023-05-30 14:58:45,825 PIL.Image    DEBUG    Importing DdsImagePlugin
+2023-05-30 14:58:45,827 PIL.Image    DEBUG    Importing EpsImagePlugin
+2023-05-30 14:58:45,876 PIL.Image    DEBUG    Importing FitsImagePlugin
+2023-05-30 14:58:45,877 PIL.Image    DEBUG    Importing FitsStubImagePlugin
+2023-05-30 14:58:45,879 PIL.Image    DEBUG    Importing FliImagePlugin
+2023-05-30 14:58:45,880 PIL.Image    DEBUG    Importing FpxImagePlugin
+2023-05-30 14:58:45,882 PIL.Image    DEBUG    Image: failed to import FpxImagePlugin: No module named 'olefile'
+2023-05-30 14:58:45,883 PIL.Image    DEBUG    Importing FtexImagePlugin
+2023-05-30 14:58:45,884 PIL.Image    DEBUG    Importing GbrImagePlugin
+2023-05-30 14:58:45,886 PIL.Image    DEBUG    Importing GifImagePlugin
+2023-05-30 14:58:45,886 PIL.Image    DEBUG    Importing GribStubImagePlugin
+2023-05-30 14:58:45,887 PIL.Image    DEBUG    Importing Hdf5StubImagePlugin
+2023-05-30 14:58:45,889 PIL.Image    DEBUG    Importing IcnsImagePlugin
+2023-05-30 14:58:45,893 PIL.Image    DEBUG    Importing IcoImagePlugin
+2023-05-30 14:58:45,895 PIL.Image    DEBUG    Importing ImImagePlugin
+2023-05-30 14:58:45,896 PIL.Image    DEBUG    Importing ImtImagePlugin
+2023-05-30 14:58:45,898 PIL.Image    DEBUG    Importing IptcImagePlugin
+2023-05-30 14:58:45,899 PIL.Image    DEBUG    Importing JpegImagePlugin
+2023-05-30 14:58:45,899 PIL.Image    DEBUG    Importing Jpeg2KImagePlugin
+2023-05-30 14:58:45,900 PIL.Image    DEBUG    Importing McIdasImagePlugin
+2023-05-30 14:58:45,901 PIL.Image    DEBUG    Importing MicImagePlugin
+2023-05-30 14:58:45,903 PIL.Image    DEBUG    Image: failed to import MicImagePlugin: No module named 'olefile'
+2023-05-30 14:58:45,903 PIL.Image    DEBUG    Importing MpegImagePlugin
+2023-05-30 14:58:45,904 PIL.Image    DEBUG    Importing MpoImagePlugin
+2023-05-30 14:58:45,910 PIL.Image    DEBUG    Importing MspImagePlugin
+2023-05-30 14:58:45,912 PIL.Image    DEBUG    Importing PalmImagePlugin
+2023-05-30 14:58:45,913 PIL.Image    DEBUG    Importing PcdImagePlugin
+2023-05-30 14:58:45,915 PIL.Image    DEBUG    Importing PcxImagePlugin
+2023-05-30 14:58:45,915 PIL.Image    DEBUG    Importing PdfImagePlugin
+2023-05-30 14:58:45,921 PIL.Image    DEBUG    Importing PixarImagePlugin
+2023-05-30 14:58:45,923 PIL.Image    DEBUG    Importing PngImagePlugin
+2023-05-30 14:58:45,924 PIL.Image    DEBUG    Importing PpmImagePlugin
+2023-05-30 14:58:45,925 PIL.Image    DEBUG    Importing PsdImagePlugin
+2023-05-30 14:58:45,926 PIL.Image    DEBUG    Importing QoiImagePlugin
+2023-05-30 14:58:45,928 PIL.Image    DEBUG    Importing SgiImagePlugin
+2023-05-30 14:58:45,930 PIL.Image    DEBUG    Importing SpiderImagePlugin
+2023-05-30 14:58:45,931 PIL.Image    DEBUG    Importing SunImagePlugin
+2023-05-30 14:58:45,932 PIL.Image    DEBUG    Importing TgaImagePlugin
+2023-05-30 14:58:45,934 PIL.Image    DEBUG    Importing TiffImagePlugin
+2023-05-30 14:58:45,934 PIL.Image    DEBUG    Importing WebPImagePlugin
+2023-05-30 14:58:45,936 PIL.Image    DEBUG    Importing WmfImagePlugin
+2023-05-30 14:58:45,937 PIL.Image    DEBUG    Importing XbmImagePlugin
+2023-05-30 14:58:45,940 PIL.Image    DEBUG    Importing XpmImagePlugin
+2023-05-30 14:58:45,942 PIL.Image    DEBUG    Importing XVThumbImagePlugin
+2023-05-30 14:58:47,070 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 14:58:47,071 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 14:59:31,131 h5py._conv   DEBUG    Creating converter from 3 to 5
+2023-05-30 15:00:20,140 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\views.py changed, reloading.
+2023-05-30 15:00:21,454 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:00:26,020 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\views.py changed, reloading.
+2023-05-30 15:00:26,937 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:00:29,487 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 15:00:29,886 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:00:29,886 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:00:29,886 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:00:29,886 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:00:32,478 matplotlib   DEBUG    matplotlib data path: D:\study\denoising-dirty-documents\venv\lib\site-packages\matplotlib\mpl-data
+2023-05-30 15:00:32,485 matplotlib   DEBUG    CONFIGDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:00:32,487 matplotlib   DEBUG    interactive is False
+2023-05-30 15:00:32,488 matplotlib   DEBUG    platform is win32
+2023-05-30 15:00:32,558 matplotlib   DEBUG    CACHEDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:00:32,563 matplotlib.font_manager DEBUG    Using fontManager instance from C:\Users\ilazu\.matplotlib\fontlist-v330.json
+2023-05-30 15:01:41,585 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:01:42,923 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:01:45,110 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 15:01:45,551 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:01:45,552 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:01:45,552 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:01:45,553 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:01:50,014 matplotlib   DEBUG    matplotlib data path: D:\study\denoising-dirty-documents\venv\lib\site-packages\matplotlib\mpl-data
+2023-05-30 15:01:50,028 matplotlib   DEBUG    CONFIGDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:01:50,031 matplotlib   DEBUG    interactive is False
+2023-05-30 15:01:50,032 matplotlib   DEBUG    platform is win32
+2023-05-30 15:01:50,136 matplotlib   DEBUG    CACHEDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:01:50,143 matplotlib.font_manager DEBUG    Using fontManager instance from C:\Users\ilazu\.matplotlib\fontlist-v330.json
+2023-05-30 15:02:04,951 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:02:06,415 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:02:08,789 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 15:02:09,243 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:02:09,244 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:02:09,244 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:02:09,245 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:02:12,784 matplotlib   DEBUG    matplotlib data path: D:\study\denoising-dirty-documents\venv\lib\site-packages\matplotlib\mpl-data
+2023-05-30 15:02:12,804 matplotlib   DEBUG    CONFIGDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:02:12,807 matplotlib   DEBUG    interactive is False
+2023-05-30 15:02:12,807 matplotlib   DEBUG    platform is win32
+2023-05-30 15:02:12,894 matplotlib   DEBUG    CACHEDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:02:12,900 matplotlib.font_manager DEBUG    Using fontManager instance from C:\Users\ilazu\.matplotlib\fontlist-v330.json
+2023-05-30 15:02:26,002 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:02:26,003 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 15:02:26,003 PIL.Image    DEBUG    Importing BlpImagePlugin
+2023-05-30 15:02:26,005 PIL.Image    DEBUG    Importing BmpImagePlugin
+2023-05-30 15:02:26,006 PIL.Image    DEBUG    Importing BufrStubImagePlugin
+2023-05-30 15:02:26,007 PIL.Image    DEBUG    Importing CurImagePlugin
+2023-05-30 15:02:26,009 PIL.Image    DEBUG    Importing DcxImagePlugin
+2023-05-30 15:02:26,011 PIL.Image    DEBUG    Importing DdsImagePlugin
+2023-05-30 15:02:26,012 PIL.Image    DEBUG    Importing EpsImagePlugin
+2023-05-30 15:02:26,066 PIL.Image    DEBUG    Importing FitsImagePlugin
+2023-05-30 15:02:26,068 PIL.Image    DEBUG    Importing FitsStubImagePlugin
+2023-05-30 15:02:26,069 PIL.Image    DEBUG    Importing FliImagePlugin
+2023-05-30 15:02:26,071 PIL.Image    DEBUG    Importing FpxImagePlugin
+2023-05-30 15:02:26,073 PIL.Image    DEBUG    Image: failed to import FpxImagePlugin: No module named 'olefile'
+2023-05-30 15:02:26,073 PIL.Image    DEBUG    Importing FtexImagePlugin
+2023-05-30 15:02:26,075 PIL.Image    DEBUG    Importing GbrImagePlugin
+2023-05-30 15:02:26,076 PIL.Image    DEBUG    Importing GifImagePlugin
+2023-05-30 15:02:26,076 PIL.Image    DEBUG    Importing GribStubImagePlugin
+2023-05-30 15:02:26,078 PIL.Image    DEBUG    Importing Hdf5StubImagePlugin
+2023-05-30 15:02:26,079 PIL.Image    DEBUG    Importing IcnsImagePlugin
+2023-05-30 15:02:26,083 PIL.Image    DEBUG    Importing IcoImagePlugin
+2023-05-30 15:02:26,085 PIL.Image    DEBUG    Importing ImImagePlugin
+2023-05-30 15:02:26,087 PIL.Image    DEBUG    Importing ImtImagePlugin
+2023-05-30 15:02:26,089 PIL.Image    DEBUG    Importing IptcImagePlugin
+2023-05-30 15:02:26,090 PIL.Image    DEBUG    Importing JpegImagePlugin
+2023-05-30 15:02:26,090 PIL.Image    DEBUG    Importing Jpeg2KImagePlugin
+2023-05-30 15:02:26,090 PIL.Image    DEBUG    Importing McIdasImagePlugin
+2023-05-30 15:02:26,092 PIL.Image    DEBUG    Importing MicImagePlugin
+2023-05-30 15:02:26,093 PIL.Image    DEBUG    Image: failed to import MicImagePlugin: No module named 'olefile'
+2023-05-30 15:02:26,094 PIL.Image    DEBUG    Importing MpegImagePlugin
+2023-05-30 15:02:26,096 PIL.Image    DEBUG    Importing MpoImagePlugin
+2023-05-30 15:02:26,103 PIL.Image    DEBUG    Importing MspImagePlugin
+2023-05-30 15:02:26,104 PIL.Image    DEBUG    Importing PalmImagePlugin
+2023-05-30 15:02:26,106 PIL.Image    DEBUG    Importing PcdImagePlugin
+2023-05-30 15:02:26,108 PIL.Image    DEBUG    Importing PcxImagePlugin
+2023-05-30 15:02:26,108 PIL.Image    DEBUG    Importing PdfImagePlugin
+2023-05-30 15:02:26,118 PIL.Image    DEBUG    Importing PixarImagePlugin
+2023-05-30 15:02:26,120 PIL.Image    DEBUG    Importing PngImagePlugin
+2023-05-30 15:02:26,121 PIL.Image    DEBUG    Importing PpmImagePlugin
+2023-05-30 15:02:26,121 PIL.Image    DEBUG    Importing PsdImagePlugin
+2023-05-30 15:02:26,123 PIL.Image    DEBUG    Importing QoiImagePlugin
+2023-05-30 15:02:26,124 PIL.Image    DEBUG    Importing SgiImagePlugin
+2023-05-30 15:02:26,126 PIL.Image    DEBUG    Importing SpiderImagePlugin
+2023-05-30 15:02:26,128 PIL.Image    DEBUG    Importing SunImagePlugin
+2023-05-30 15:02:26,129 PIL.Image    DEBUG    Importing TgaImagePlugin
+2023-05-30 15:02:26,131 PIL.Image    DEBUG    Importing TiffImagePlugin
+2023-05-30 15:02:26,131 PIL.Image    DEBUG    Importing WebPImagePlugin
+2023-05-30 15:02:26,134 PIL.Image    DEBUG    Importing WmfImagePlugin
+2023-05-30 15:02:26,136 PIL.Image    DEBUG    Importing XbmImagePlugin
+2023-05-30 15:02:26,138 PIL.Image    DEBUG    Importing XpmImagePlugin
+2023-05-30 15:02:26,139 PIL.Image    DEBUG    Importing XVThumbImagePlugin
+2023-05-30 15:02:27,193 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:02:27,193 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 15:03:11,541 h5py._conv   DEBUG    Creating converter from 3 to 5
+2023-05-30 15:03:45,615 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:03:47,345 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:03:49,702 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 15:03:50,093 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:03:50,093 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:03:50,093 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:03:50,093 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:03:53,057 matplotlib   DEBUG    matplotlib data path: D:\study\denoising-dirty-documents\venv\lib\site-packages\matplotlib\mpl-data
+2023-05-30 15:03:53,064 matplotlib   DEBUG    CONFIGDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:03:53,068 matplotlib   DEBUG    interactive is False
+2023-05-30 15:03:53,068 matplotlib   DEBUG    platform is win32
+2023-05-30 15:03:53,148 matplotlib   DEBUG    CACHEDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:03:53,154 matplotlib.font_manager DEBUG    Using fontManager instance from C:\Users\ilazu\.matplotlib\fontlist-v330.json
+2023-05-30 15:12:15,789 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:12:15,789 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 15:12:15,790 PIL.Image    DEBUG    Importing BlpImagePlugin
+2023-05-30 15:12:15,792 PIL.Image    DEBUG    Importing BmpImagePlugin
+2023-05-30 15:12:15,793 PIL.Image    DEBUG    Importing BufrStubImagePlugin
+2023-05-30 15:12:15,795 PIL.Image    DEBUG    Importing CurImagePlugin
+2023-05-30 15:12:15,797 PIL.Image    DEBUG    Importing DcxImagePlugin
+2023-05-30 15:12:15,800 PIL.Image    DEBUG    Importing DdsImagePlugin
+2023-05-30 15:12:15,802 PIL.Image    DEBUG    Importing EpsImagePlugin
+2023-05-30 15:12:15,884 PIL.Image    DEBUG    Importing FitsImagePlugin
+2023-05-30 15:12:15,885 PIL.Image    DEBUG    Importing FitsStubImagePlugin
+2023-05-30 15:12:15,887 PIL.Image    DEBUG    Importing FliImagePlugin
+2023-05-30 15:12:15,889 PIL.Image    DEBUG    Importing FpxImagePlugin
+2023-05-30 15:12:15,891 PIL.Image    DEBUG    Image: failed to import FpxImagePlugin: No module named 'olefile'
+2023-05-30 15:12:15,891 PIL.Image    DEBUG    Importing FtexImagePlugin
+2023-05-30 15:12:15,892 PIL.Image    DEBUG    Importing GbrImagePlugin
+2023-05-30 15:12:15,894 PIL.Image    DEBUG    Importing GifImagePlugin
+2023-05-30 15:12:15,894 PIL.Image    DEBUG    Importing GribStubImagePlugin
+2023-05-30 15:12:15,895 PIL.Image    DEBUG    Importing Hdf5StubImagePlugin
+2023-05-30 15:12:15,899 PIL.Image    DEBUG    Importing IcnsImagePlugin
+2023-05-30 15:12:15,903 PIL.Image    DEBUG    Importing IcoImagePlugin
+2023-05-30 15:12:15,904 PIL.Image    DEBUG    Importing ImImagePlugin
+2023-05-30 15:12:15,906 PIL.Image    DEBUG    Importing ImtImagePlugin
+2023-05-30 15:12:15,907 PIL.Image    DEBUG    Importing IptcImagePlugin
+2023-05-30 15:12:15,908 PIL.Image    DEBUG    Importing JpegImagePlugin
+2023-05-30 15:12:15,909 PIL.Image    DEBUG    Importing Jpeg2KImagePlugin
+2023-05-30 15:12:15,909 PIL.Image    DEBUG    Importing McIdasImagePlugin
+2023-05-30 15:12:15,910 PIL.Image    DEBUG    Importing MicImagePlugin
+2023-05-30 15:12:15,912 PIL.Image    DEBUG    Image: failed to import MicImagePlugin: No module named 'olefile'
+2023-05-30 15:12:15,912 PIL.Image    DEBUG    Importing MpegImagePlugin
+2023-05-30 15:12:15,914 PIL.Image    DEBUG    Importing MpoImagePlugin
+2023-05-30 15:12:15,917 PIL.Image    DEBUG    Importing MspImagePlugin
+2023-05-30 15:12:15,919 PIL.Image    DEBUG    Importing PalmImagePlugin
+2023-05-30 15:12:15,921 PIL.Image    DEBUG    Importing PcdImagePlugin
+2023-05-30 15:12:15,922 PIL.Image    DEBUG    Importing PcxImagePlugin
+2023-05-30 15:12:15,922 PIL.Image    DEBUG    Importing PdfImagePlugin
+2023-05-30 15:12:15,930 PIL.Image    DEBUG    Importing PixarImagePlugin
+2023-05-30 15:12:15,932 PIL.Image    DEBUG    Importing PngImagePlugin
+2023-05-30 15:12:15,932 PIL.Image    DEBUG    Importing PpmImagePlugin
+2023-05-30 15:12:15,933 PIL.Image    DEBUG    Importing PsdImagePlugin
+2023-05-30 15:12:15,935 PIL.Image    DEBUG    Importing QoiImagePlugin
+2023-05-30 15:12:15,936 PIL.Image    DEBUG    Importing SgiImagePlugin
+2023-05-30 15:12:15,938 PIL.Image    DEBUG    Importing SpiderImagePlugin
+2023-05-30 15:12:15,940 PIL.Image    DEBUG    Importing SunImagePlugin
+2023-05-30 15:12:15,941 PIL.Image    DEBUG    Importing TgaImagePlugin
+2023-05-30 15:12:15,943 PIL.Image    DEBUG    Importing TiffImagePlugin
+2023-05-30 15:12:15,943 PIL.Image    DEBUG    Importing WebPImagePlugin
+2023-05-30 15:12:15,945 PIL.Image    DEBUG    Importing WmfImagePlugin
+2023-05-30 15:12:15,947 PIL.Image    DEBUG    Importing XbmImagePlugin
+2023-05-30 15:12:15,955 PIL.Image    DEBUG    Importing XpmImagePlugin
+2023-05-30 15:12:15,978 PIL.Image    DEBUG    Importing XVThumbImagePlugin
+2023-05-30 15:12:17,076 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:12:17,077 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 15:13:02,655 h5py._conv   DEBUG    Creating converter from 3 to 5
+2023-05-30 15:20:50,704 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:20:52,325 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:20:54,368 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 15:20:54,704 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:20:54,705 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:20:54,705 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:20:54,705 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:20:57,765 matplotlib   DEBUG    matplotlib data path: D:\study\denoising-dirty-documents\venv\lib\site-packages\matplotlib\mpl-data
+2023-05-30 15:20:57,777 matplotlib   DEBUG    CONFIGDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:20:57,779 matplotlib   DEBUG    interactive is False
+2023-05-30 15:20:57,780 matplotlib   DEBUG    platform is win32
+2023-05-30 15:20:57,860 matplotlib   DEBUG    CACHEDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:20:57,867 matplotlib.font_manager DEBUG    Using fontManager instance from C:\Users\ilazu\.matplotlib\fontlist-v330.json
+2023-05-30 15:21:04,219 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:21:05,514 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:21:29,199 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:21:29,970 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:22:01,640 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:22:02,398 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:22:21,445 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:22:22,059 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:22:24,539 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:22:25,231 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:22:27,257 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 15:22:27,658 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:22:27,658 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:22:27,658 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:22:27,658 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:22:31,452 matplotlib   DEBUG    matplotlib data path: D:\study\denoising-dirty-documents\venv\lib\site-packages\matplotlib\mpl-data
+2023-05-30 15:22:31,470 matplotlib   DEBUG    CONFIGDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:22:31,477 matplotlib   DEBUG    interactive is False
+2023-05-30 15:22:31,482 matplotlib   DEBUG    platform is win32
+2023-05-30 15:22:31,646 matplotlib   DEBUG    CACHEDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:22:31,654 matplotlib.font_manager DEBUG    Using fontManager instance from C:\Users\ilazu\.matplotlib\fontlist-v330.json
+2023-05-30 15:23:05,517 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:23:06,766 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:23:09,341 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:23:10,031 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:23:32,367 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:23:33,544 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:30:31,061 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:30:33,299 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 15:30:33,710 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:30:33,710 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:30:33,710 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:30:33,710 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:30:36,571 matplotlib   DEBUG    matplotlib data path: D:\study\denoising-dirty-documents\venv\lib\site-packages\matplotlib\mpl-data
+2023-05-30 15:30:36,578 matplotlib   DEBUG    CONFIGDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:30:36,581 matplotlib   DEBUG    interactive is False
+2023-05-30 15:30:36,582 matplotlib   DEBUG    platform is win32
+2023-05-30 15:30:36,664 matplotlib   DEBUG    CACHEDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:30:36,674 matplotlib.font_manager DEBUG    Using fontManager instance from C:\Users\ilazu\.matplotlib\fontlist-v330.json
+2023-05-30 15:30:48,197 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:30:48,197 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 15:30:48,198 PIL.Image    DEBUG    Importing BlpImagePlugin
+2023-05-30 15:30:48,200 PIL.Image    DEBUG    Importing BmpImagePlugin
+2023-05-30 15:30:48,201 PIL.Image    DEBUG    Importing BufrStubImagePlugin
+2023-05-30 15:30:48,202 PIL.Image    DEBUG    Importing CurImagePlugin
+2023-05-30 15:30:48,203 PIL.Image    DEBUG    Importing DcxImagePlugin
+2023-05-30 15:30:48,206 PIL.Image    DEBUG    Importing DdsImagePlugin
+2023-05-30 15:30:48,209 PIL.Image    DEBUG    Importing EpsImagePlugin
+2023-05-30 15:30:48,265 PIL.Image    DEBUG    Importing FitsImagePlugin
+2023-05-30 15:30:48,266 PIL.Image    DEBUG    Importing FitsStubImagePlugin
+2023-05-30 15:30:48,268 PIL.Image    DEBUG    Importing FliImagePlugin
+2023-05-30 15:30:48,270 PIL.Image    DEBUG    Importing FpxImagePlugin
+2023-05-30 15:30:48,272 PIL.Image    DEBUG    Image: failed to import FpxImagePlugin: No module named 'olefile'
+2023-05-30 15:30:48,273 PIL.Image    DEBUG    Importing FtexImagePlugin
+2023-05-30 15:30:48,275 PIL.Image    DEBUG    Importing GbrImagePlugin
+2023-05-30 15:30:48,277 PIL.Image    DEBUG    Importing GifImagePlugin
+2023-05-30 15:30:48,278 PIL.Image    DEBUG    Importing GribStubImagePlugin
+2023-05-30 15:30:48,279 PIL.Image    DEBUG    Importing Hdf5StubImagePlugin
+2023-05-30 15:30:48,280 PIL.Image    DEBUG    Importing IcnsImagePlugin
+2023-05-30 15:30:48,283 PIL.Image    DEBUG    Importing IcoImagePlugin
+2023-05-30 15:30:48,284 PIL.Image    DEBUG    Importing ImImagePlugin
+2023-05-30 15:30:48,286 PIL.Image    DEBUG    Importing ImtImagePlugin
+2023-05-30 15:30:48,287 PIL.Image    DEBUG    Importing IptcImagePlugin
+2023-05-30 15:30:48,288 PIL.Image    DEBUG    Importing JpegImagePlugin
+2023-05-30 15:30:48,289 PIL.Image    DEBUG    Importing Jpeg2KImagePlugin
+2023-05-30 15:30:48,289 PIL.Image    DEBUG    Importing McIdasImagePlugin
+2023-05-30 15:30:48,292 PIL.Image    DEBUG    Importing MicImagePlugin
+2023-05-30 15:30:48,295 PIL.Image    DEBUG    Image: failed to import MicImagePlugin: No module named 'olefile'
+2023-05-30 15:30:48,295 PIL.Image    DEBUG    Importing MpegImagePlugin
+2023-05-30 15:30:48,297 PIL.Image    DEBUG    Importing MpoImagePlugin
+2023-05-30 15:30:48,301 PIL.Image    DEBUG    Importing MspImagePlugin
+2023-05-30 15:30:48,302 PIL.Image    DEBUG    Importing PalmImagePlugin
+2023-05-30 15:30:48,304 PIL.Image    DEBUG    Importing PcdImagePlugin
+2023-05-30 15:30:48,305 PIL.Image    DEBUG    Importing PcxImagePlugin
+2023-05-30 15:30:48,306 PIL.Image    DEBUG    Importing PdfImagePlugin
+2023-05-30 15:30:48,320 PIL.Image    DEBUG    Importing PixarImagePlugin
+2023-05-30 15:30:48,321 PIL.Image    DEBUG    Importing PngImagePlugin
+2023-05-30 15:30:48,322 PIL.Image    DEBUG    Importing PpmImagePlugin
+2023-05-30 15:30:48,323 PIL.Image    DEBUG    Importing PsdImagePlugin
+2023-05-30 15:30:48,325 PIL.Image    DEBUG    Importing QoiImagePlugin
+2023-05-30 15:30:48,327 PIL.Image    DEBUG    Importing SgiImagePlugin
+2023-05-30 15:30:48,329 PIL.Image    DEBUG    Importing SpiderImagePlugin
+2023-05-30 15:30:48,330 PIL.Image    DEBUG    Importing SunImagePlugin
+2023-05-30 15:30:48,332 PIL.Image    DEBUG    Importing TgaImagePlugin
+2023-05-30 15:30:48,333 PIL.Image    DEBUG    Importing TiffImagePlugin
+2023-05-30 15:30:48,334 PIL.Image    DEBUG    Importing WebPImagePlugin
+2023-05-30 15:30:48,335 PIL.Image    DEBUG    Importing WmfImagePlugin
+2023-05-30 15:30:48,337 PIL.Image    DEBUG    Importing XbmImagePlugin
+2023-05-30 15:30:48,338 PIL.Image    DEBUG    Importing XpmImagePlugin
+2023-05-30 15:30:48,341 PIL.Image    DEBUG    Importing XVThumbImagePlugin
+2023-05-30 15:30:49,539 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:30:49,541 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 15:31:35,565 h5py._conv   DEBUG    Creating converter from 3 to 5
+2023-05-30 15:31:37,656 django.request ERROR    Internal Server Error: /upload
+Traceback (most recent call last):
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\study\denoising-dirty-documents\denoisingdocuments\documents\views.py", line 68, in upload
+    instance.result_image, instance.image_text = clear_image(instance.image.url)
+  File "D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py", line 171, in clear_image
+    return image_path[:-4] + "_result.png", get_image_text(f'image_path[:-4] + "_result.png"')
+  File "D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py", line 143, in get_image_text
+    predictions = detect_w_keras(image_path)
+  File "D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py", line 105, in detect_w_keras
+    read_image = keras_ocr.tools.read(image_path)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\keras_ocr\tools.py", line 34, in read
+    assert os.path.isfile(filepath_or_buffer), (
+AssertionError: Could not find image at path: image_path[:-4] + "_result.png"
+2023-05-30 15:31:42,658 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:31:44,189 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:31:47,856 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:31:48,512 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:31:50,034 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 15:31:50,320 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:31:50,320 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:31:50,332 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:31:50,335 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:31:52,811 matplotlib   DEBUG    matplotlib data path: D:\study\denoising-dirty-documents\venv\lib\site-packages\matplotlib\mpl-data
+2023-05-30 15:31:52,821 matplotlib   DEBUG    CONFIGDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:31:52,823 matplotlib   DEBUG    interactive is False
+2023-05-30 15:31:52,824 matplotlib   DEBUG    platform is win32
+2023-05-30 15:31:52,900 matplotlib   DEBUG    CACHEDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:31:52,909 matplotlib.font_manager DEBUG    Using fontManager instance from C:\Users\ilazu\.matplotlib\fontlist-v330.json
+2023-05-30 15:31:55,373 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:31:55,373 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 15:31:55,373 PIL.Image    DEBUG    Importing BlpImagePlugin
+2023-05-30 15:31:55,380 PIL.Image    DEBUG    Importing BmpImagePlugin
+2023-05-30 15:31:55,380 PIL.Image    DEBUG    Importing BufrStubImagePlugin
+2023-05-30 15:31:55,383 PIL.Image    DEBUG    Importing CurImagePlugin
+2023-05-30 15:31:55,385 PIL.Image    DEBUG    Importing DcxImagePlugin
+2023-05-30 15:31:55,389 PIL.Image    DEBUG    Importing DdsImagePlugin
+2023-05-30 15:31:55,391 PIL.Image    DEBUG    Importing EpsImagePlugin
+2023-05-30 15:31:55,476 PIL.Image    DEBUG    Importing FitsImagePlugin
+2023-05-30 15:31:55,478 PIL.Image    DEBUG    Importing FitsStubImagePlugin
+2023-05-30 15:31:55,480 PIL.Image    DEBUG    Importing FliImagePlugin
+2023-05-30 15:31:55,482 PIL.Image    DEBUG    Importing FpxImagePlugin
+2023-05-30 15:31:55,488 PIL.Image    DEBUG    Image: failed to import FpxImagePlugin: No module named 'olefile'
+2023-05-30 15:31:55,489 PIL.Image    DEBUG    Importing FtexImagePlugin
+2023-05-30 15:31:55,491 PIL.Image    DEBUG    Importing GbrImagePlugin
+2023-05-30 15:31:55,492 PIL.Image    DEBUG    Importing GifImagePlugin
+2023-05-30 15:31:55,493 PIL.Image    DEBUG    Importing GribStubImagePlugin
+2023-05-30 15:31:55,494 PIL.Image    DEBUG    Importing Hdf5StubImagePlugin
+2023-05-30 15:31:55,496 PIL.Image    DEBUG    Importing IcnsImagePlugin
+2023-05-30 15:31:55,500 PIL.Image    DEBUG    Importing IcoImagePlugin
+2023-05-30 15:31:55,503 PIL.Image    DEBUG    Importing ImImagePlugin
+2023-05-30 15:31:55,505 PIL.Image    DEBUG    Importing ImtImagePlugin
+2023-05-30 15:31:55,507 PIL.Image    DEBUG    Importing IptcImagePlugin
+2023-05-30 15:31:55,509 PIL.Image    DEBUG    Importing JpegImagePlugin
+2023-05-30 15:31:55,509 PIL.Image    DEBUG    Importing Jpeg2KImagePlugin
+2023-05-30 15:31:55,510 PIL.Image    DEBUG    Importing McIdasImagePlugin
+2023-05-30 15:31:55,511 PIL.Image    DEBUG    Importing MicImagePlugin
+2023-05-30 15:31:55,513 PIL.Image    DEBUG    Image: failed to import MicImagePlugin: No module named 'olefile'
+2023-05-30 15:31:55,514 PIL.Image    DEBUG    Importing MpegImagePlugin
+2023-05-30 15:31:55,516 PIL.Image    DEBUG    Importing MpoImagePlugin
+2023-05-30 15:31:55,522 PIL.Image    DEBUG    Importing MspImagePlugin
+2023-05-30 15:31:55,524 PIL.Image    DEBUG    Importing PalmImagePlugin
+2023-05-30 15:31:55,526 PIL.Image    DEBUG    Importing PcdImagePlugin
+2023-05-30 15:31:55,527 PIL.Image    DEBUG    Importing PcxImagePlugin
+2023-05-30 15:31:55,528 PIL.Image    DEBUG    Importing PdfImagePlugin
+2023-05-30 15:31:55,538 PIL.Image    DEBUG    Importing PixarImagePlugin
+2023-05-30 15:31:55,540 PIL.Image    DEBUG    Importing PngImagePlugin
+2023-05-30 15:31:55,540 PIL.Image    DEBUG    Importing PpmImagePlugin
+2023-05-30 15:31:55,541 PIL.Image    DEBUG    Importing PsdImagePlugin
+2023-05-30 15:31:55,542 PIL.Image    DEBUG    Importing QoiImagePlugin
+2023-05-30 15:31:55,544 PIL.Image    DEBUG    Importing SgiImagePlugin
+2023-05-30 15:31:55,546 PIL.Image    DEBUG    Importing SpiderImagePlugin
+2023-05-30 15:31:55,547 PIL.Image    DEBUG    Importing SunImagePlugin
+2023-05-30 15:31:55,549 PIL.Image    DEBUG    Importing TgaImagePlugin
+2023-05-30 15:31:55,551 PIL.Image    DEBUG    Importing TiffImagePlugin
+2023-05-30 15:31:55,552 PIL.Image    DEBUG    Importing WebPImagePlugin
+2023-05-30 15:31:55,556 PIL.Image    DEBUG    Importing WmfImagePlugin
+2023-05-30 15:31:55,557 PIL.Image    DEBUG    Importing XbmImagePlugin
+2023-05-30 15:31:55,559 PIL.Image    DEBUG    Importing XpmImagePlugin
+2023-05-30 15:31:55,561 PIL.Image    DEBUG    Importing XVThumbImagePlugin
+2023-05-30 15:31:56,446 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:31:56,446 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 15:32:43,047 h5py._conv   DEBUG    Creating converter from 3 to 5
+2023-05-30 15:33:00,388 django.request ERROR    Internal Server Error: /upload
+Traceback (most recent call last):
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\study\denoising-dirty-documents\denoisingdocuments\documents\views.py", line 68, in upload
+    instance.result_image, instance.image_text = clear_image(instance.image.url)
+  File "D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py", line 171, in clear_image
+    return image_path[:-4] + "_result.png", get_image_text(f'{image_path[:-4] + "_result.png"}')
+  File "D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py", line 145, in get_image_text
+    predictions = list(distinguish_rows(predictions, thresh))
+NameError: name 'thresh' is not defined
+2023-05-30 15:33:25,328 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:33:26,910 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:33:29,085 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 15:33:29,434 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:33:29,434 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:33:29,434 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:33:29,434 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:33:32,507 matplotlib   DEBUG    matplotlib data path: D:\study\denoising-dirty-documents\venv\lib\site-packages\matplotlib\mpl-data
+2023-05-30 15:33:32,514 matplotlib   DEBUG    CONFIGDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:33:32,518 matplotlib   DEBUG    interactive is False
+2023-05-30 15:33:32,519 matplotlib   DEBUG    platform is win32
+2023-05-30 15:33:32,588 matplotlib   DEBUG    CACHEDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:33:32,593 matplotlib.font_manager DEBUG    Using fontManager instance from C:\Users\ilazu\.matplotlib\fontlist-v330.json
+2023-05-30 15:33:33,543 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:33:33,543 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 15:33:33,544 PIL.Image    DEBUG    Importing BlpImagePlugin
+2023-05-30 15:33:33,547 PIL.Image    DEBUG    Importing BmpImagePlugin
+2023-05-30 15:33:33,548 PIL.Image    DEBUG    Importing BufrStubImagePlugin
+2023-05-30 15:33:33,550 PIL.Image    DEBUG    Importing CurImagePlugin
+2023-05-30 15:33:33,553 PIL.Image    DEBUG    Importing DcxImagePlugin
+2023-05-30 15:33:33,557 PIL.Image    DEBUG    Importing DdsImagePlugin
+2023-05-30 15:33:33,560 PIL.Image    DEBUG    Importing EpsImagePlugin
+2023-05-30 15:33:33,688 PIL.Image    DEBUG    Importing FitsImagePlugin
+2023-05-30 15:33:33,690 PIL.Image    DEBUG    Importing FitsStubImagePlugin
+2023-05-30 15:33:33,692 PIL.Image    DEBUG    Importing FliImagePlugin
+2023-05-30 15:33:33,694 PIL.Image    DEBUG    Importing FpxImagePlugin
+2023-05-30 15:33:33,696 PIL.Image    DEBUG    Image: failed to import FpxImagePlugin: No module named 'olefile'
+2023-05-30 15:33:33,697 PIL.Image    DEBUG    Importing FtexImagePlugin
+2023-05-30 15:33:33,699 PIL.Image    DEBUG    Importing GbrImagePlugin
+2023-05-30 15:33:33,701 PIL.Image    DEBUG    Importing GifImagePlugin
+2023-05-30 15:33:33,702 PIL.Image    DEBUG    Importing GribStubImagePlugin
+2023-05-30 15:33:33,704 PIL.Image    DEBUG    Importing Hdf5StubImagePlugin
+2023-05-30 15:33:33,706 PIL.Image    DEBUG    Importing IcnsImagePlugin
+2023-05-30 15:33:33,710 PIL.Image    DEBUG    Importing IcoImagePlugin
+2023-05-30 15:33:33,712 PIL.Image    DEBUG    Importing ImImagePlugin
+2023-05-30 15:33:33,714 PIL.Image    DEBUG    Importing ImtImagePlugin
+2023-05-30 15:33:33,717 PIL.Image    DEBUG    Importing IptcImagePlugin
+2023-05-30 15:33:33,719 PIL.Image    DEBUG    Importing JpegImagePlugin
+2023-05-30 15:33:33,720 PIL.Image    DEBUG    Importing Jpeg2KImagePlugin
+2023-05-30 15:33:33,720 PIL.Image    DEBUG    Importing McIdasImagePlugin
+2023-05-30 15:33:33,722 PIL.Image    DEBUG    Importing MicImagePlugin
+2023-05-30 15:33:33,725 PIL.Image    DEBUG    Image: failed to import MicImagePlugin: No module named 'olefile'
+2023-05-30 15:33:33,725 PIL.Image    DEBUG    Importing MpegImagePlugin
+2023-05-30 15:33:33,727 PIL.Image    DEBUG    Importing MpoImagePlugin
+2023-05-30 15:33:33,731 PIL.Image    DEBUG    Importing MspImagePlugin
+2023-05-30 15:33:33,733 PIL.Image    DEBUG    Importing PalmImagePlugin
+2023-05-30 15:33:33,736 PIL.Image    DEBUG    Importing PcdImagePlugin
+2023-05-30 15:33:33,738 PIL.Image    DEBUG    Importing PcxImagePlugin
+2023-05-30 15:33:33,739 PIL.Image    DEBUG    Importing PdfImagePlugin
+2023-05-30 15:33:33,747 PIL.Image    DEBUG    Importing PixarImagePlugin
+2023-05-30 15:33:33,748 PIL.Image    DEBUG    Importing PngImagePlugin
+2023-05-30 15:33:33,749 PIL.Image    DEBUG    Importing PpmImagePlugin
+2023-05-30 15:33:33,750 PIL.Image    DEBUG    Importing PsdImagePlugin
+2023-05-30 15:33:33,752 PIL.Image    DEBUG    Importing QoiImagePlugin
+2023-05-30 15:33:33,755 PIL.Image    DEBUG    Importing SgiImagePlugin
+2023-05-30 15:33:33,757 PIL.Image    DEBUG    Importing SpiderImagePlugin
+2023-05-30 15:33:33,759 PIL.Image    DEBUG    Importing SunImagePlugin
+2023-05-30 15:33:33,761 PIL.Image    DEBUG    Importing TgaImagePlugin
+2023-05-30 15:33:33,763 PIL.Image    DEBUG    Importing TiffImagePlugin
+2023-05-30 15:33:33,764 PIL.Image    DEBUG    Importing WebPImagePlugin
+2023-05-30 15:33:33,767 PIL.Image    DEBUG    Importing WmfImagePlugin
+2023-05-30 15:33:33,770 PIL.Image    DEBUG    Importing XbmImagePlugin
+2023-05-30 15:33:33,773 PIL.Image    DEBUG    Importing XpmImagePlugin
+2023-05-30 15:33:33,775 PIL.Image    DEBUG    Importing XVThumbImagePlugin
+2023-05-30 15:33:35,044 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:33:35,045 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 15:34:24,827 h5py._conv   DEBUG    Creating converter from 3 to 5
+2023-05-30 15:34:42,284 django.request ERROR    Internal Server Error: /upload
+Traceback (most recent call last):
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\study\denoising-dirty-documents\venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\study\denoising-dirty-documents\denoisingdocuments\documents\views.py", line 68, in upload
+    instance.result_image, instance.image_text = clear_image(instance.image.url)
+  File "D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py", line 171, in clear_image
+    return image_path[:-4] + "_result.png", get_image_text(f'{image_path[:-4] + "_result.png"}')
+  File "D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py", line 154, in get_image_text
+    return ordered_preds.join("")
+AttributeError: 'list' object has no attribute 'join'
+2023-05-30 15:35:24,728 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:35:26,445 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:35:28,611 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 15:35:28,994 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:35:28,995 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:35:28,995 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:35:28,996 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:35:32,360 matplotlib   DEBUG    matplotlib data path: D:\study\denoising-dirty-documents\venv\lib\site-packages\matplotlib\mpl-data
+2023-05-30 15:35:32,381 matplotlib   DEBUG    CONFIGDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:35:32,384 matplotlib   DEBUG    interactive is False
+2023-05-30 15:35:32,385 matplotlib   DEBUG    platform is win32
+2023-05-30 15:35:32,533 matplotlib   DEBUG    CACHEDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:35:32,538 matplotlib.font_manager DEBUG    Using fontManager instance from C:\Users\ilazu\.matplotlib\fontlist-v330.json
+2023-05-30 15:35:41,203 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:35:41,204 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 15:35:41,204 PIL.Image    DEBUG    Importing BlpImagePlugin
+2023-05-30 15:35:41,207 PIL.Image    DEBUG    Importing BmpImagePlugin
+2023-05-30 15:35:41,207 PIL.Image    DEBUG    Importing BufrStubImagePlugin
+2023-05-30 15:35:41,209 PIL.Image    DEBUG    Importing CurImagePlugin
+2023-05-30 15:35:41,211 PIL.Image    DEBUG    Importing DcxImagePlugin
+2023-05-30 15:35:41,213 PIL.Image    DEBUG    Importing DdsImagePlugin
+2023-05-30 15:35:41,214 PIL.Image    DEBUG    Importing EpsImagePlugin
+2023-05-30 15:35:41,271 PIL.Image    DEBUG    Importing FitsImagePlugin
+2023-05-30 15:35:41,273 PIL.Image    DEBUG    Importing FitsStubImagePlugin
+2023-05-30 15:35:41,275 PIL.Image    DEBUG    Importing FliImagePlugin
+2023-05-30 15:35:41,277 PIL.Image    DEBUG    Importing FpxImagePlugin
+2023-05-30 15:35:41,280 PIL.Image    DEBUG    Image: failed to import FpxImagePlugin: No module named 'olefile'
+2023-05-30 15:35:41,281 PIL.Image    DEBUG    Importing FtexImagePlugin
+2023-05-30 15:35:41,285 PIL.Image    DEBUG    Importing GbrImagePlugin
+2023-05-30 15:35:41,287 PIL.Image    DEBUG    Importing GifImagePlugin
+2023-05-30 15:35:41,287 PIL.Image    DEBUG    Importing GribStubImagePlugin
+2023-05-30 15:35:41,289 PIL.Image    DEBUG    Importing Hdf5StubImagePlugin
+2023-05-30 15:35:41,292 PIL.Image    DEBUG    Importing IcnsImagePlugin
+2023-05-30 15:35:41,297 PIL.Image    DEBUG    Importing IcoImagePlugin
+2023-05-30 15:35:41,299 PIL.Image    DEBUG    Importing ImImagePlugin
+2023-05-30 15:35:41,301 PIL.Image    DEBUG    Importing ImtImagePlugin
+2023-05-30 15:35:41,303 PIL.Image    DEBUG    Importing IptcImagePlugin
+2023-05-30 15:35:41,305 PIL.Image    DEBUG    Importing JpegImagePlugin
+2023-05-30 15:35:41,305 PIL.Image    DEBUG    Importing Jpeg2KImagePlugin
+2023-05-30 15:35:41,306 PIL.Image    DEBUG    Importing McIdasImagePlugin
+2023-05-30 15:35:41,309 PIL.Image    DEBUG    Importing MicImagePlugin
+2023-05-30 15:35:41,312 PIL.Image    DEBUG    Image: failed to import MicImagePlugin: No module named 'olefile'
+2023-05-30 15:35:41,313 PIL.Image    DEBUG    Importing MpegImagePlugin
+2023-05-30 15:35:41,315 PIL.Image    DEBUG    Importing MpoImagePlugin
+2023-05-30 15:35:41,322 PIL.Image    DEBUG    Importing MspImagePlugin
+2023-05-30 15:35:41,324 PIL.Image    DEBUG    Importing PalmImagePlugin
+2023-05-30 15:35:41,328 PIL.Image    DEBUG    Importing PcdImagePlugin
+2023-05-30 15:35:41,330 PIL.Image    DEBUG    Importing PcxImagePlugin
+2023-05-30 15:35:41,330 PIL.Image    DEBUG    Importing PdfImagePlugin
+2023-05-30 15:35:41,346 PIL.Image    DEBUG    Importing PixarImagePlugin
+2023-05-30 15:35:41,348 PIL.Image    DEBUG    Importing PngImagePlugin
+2023-05-30 15:35:41,348 PIL.Image    DEBUG    Importing PpmImagePlugin
+2023-05-30 15:35:41,349 PIL.Image    DEBUG    Importing PsdImagePlugin
+2023-05-30 15:35:41,350 PIL.Image    DEBUG    Importing QoiImagePlugin
+2023-05-30 15:35:41,352 PIL.Image    DEBUG    Importing SgiImagePlugin
+2023-05-30 15:35:41,354 PIL.Image    DEBUG    Importing SpiderImagePlugin
+2023-05-30 15:35:41,356 PIL.Image    DEBUG    Importing SunImagePlugin
+2023-05-30 15:35:41,358 PIL.Image    DEBUG    Importing TgaImagePlugin
+2023-05-30 15:35:41,362 PIL.Image    DEBUG    Importing TiffImagePlugin
+2023-05-30 15:35:41,362 PIL.Image    DEBUG    Importing WebPImagePlugin
+2023-05-30 15:35:41,365 PIL.Image    DEBUG    Importing WmfImagePlugin
+2023-05-30 15:35:41,367 PIL.Image    DEBUG    Importing XbmImagePlugin
+2023-05-30 15:35:41,370 PIL.Image    DEBUG    Importing XpmImagePlugin
+2023-05-30 15:35:41,373 PIL.Image    DEBUG    Importing XVThumbImagePlugin
+2023-05-30 15:35:42,481 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:35:42,481 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 15:36:28,795 h5py._conv   DEBUG    Creating converter from 3 to 5
+2023-05-30 15:39:05,821 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:39:07,588 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:39:09,650 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 15:39:09,940 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:39:09,940 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:39:09,940 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:39:09,940 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:39:12,470 matplotlib   DEBUG    matplotlib data path: D:\study\denoising-dirty-documents\venv\lib\site-packages\matplotlib\mpl-data
+2023-05-30 15:39:12,476 matplotlib   DEBUG    CONFIGDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:39:12,478 matplotlib   DEBUG    interactive is False
+2023-05-30 15:39:12,479 matplotlib   DEBUG    platform is win32
+2023-05-30 15:39:12,597 matplotlib   DEBUG    CACHEDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:39:12,605 matplotlib.font_manager DEBUG    Using fontManager instance from C:\Users\ilazu\.matplotlib\fontlist-v330.json
+2023-05-30 15:45:47,860 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:45:49,160 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:45:50,916 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 15:45:51,284 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:45:51,285 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:45:51,285 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:45:51,286 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:45:54,395 matplotlib   DEBUG    matplotlib data path: D:\study\denoising-dirty-documents\venv\lib\site-packages\matplotlib\mpl-data
+2023-05-30 15:45:54,408 matplotlib   DEBUG    CONFIGDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:45:54,412 matplotlib   DEBUG    interactive is False
+2023-05-30 15:45:54,412 matplotlib   DEBUG    platform is win32
+2023-05-30 15:45:54,538 matplotlib   DEBUG    CACHEDIR=C:\Users\ilazu\.matplotlib
+2023-05-30 15:45:54,550 matplotlib.font_manager DEBUG    Using fontManager instance from C:\Users\ilazu\.matplotlib\fontlist-v330.json
+2023-05-30 15:46:00,223 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\utils.py changed, reloading.
+2023-05-30 15:51:03,405 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:51:05,030 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 15:51:05,316 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:51:05,316 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:51:05,316 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:51:05,316 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:51:20,594 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:51:20,595 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 15:51:20,595 PIL.Image    DEBUG    Importing BlpImagePlugin
+2023-05-30 15:51:20,598 PIL.Image    DEBUG    Importing BmpImagePlugin
+2023-05-30 15:51:20,598 PIL.Image    DEBUG    Importing BufrStubImagePlugin
+2023-05-30 15:51:20,600 PIL.Image    DEBUG    Importing CurImagePlugin
+2023-05-30 15:51:20,601 PIL.Image    DEBUG    Importing DcxImagePlugin
+2023-05-30 15:51:20,605 PIL.Image    DEBUG    Importing DdsImagePlugin
+2023-05-30 15:51:20,607 PIL.Image    DEBUG    Importing EpsImagePlugin
+2023-05-30 15:51:20,683 PIL.Image    DEBUG    Importing FitsImagePlugin
+2023-05-30 15:51:20,684 PIL.Image    DEBUG    Importing FitsStubImagePlugin
+2023-05-30 15:51:20,686 PIL.Image    DEBUG    Importing FliImagePlugin
+2023-05-30 15:51:20,688 PIL.Image    DEBUG    Importing FpxImagePlugin
+2023-05-30 15:51:20,691 PIL.Image    DEBUG    Image: failed to import FpxImagePlugin: No module named 'olefile'
+2023-05-30 15:51:20,692 PIL.Image    DEBUG    Importing FtexImagePlugin
+2023-05-30 15:51:20,694 PIL.Image    DEBUG    Importing GbrImagePlugin
+2023-05-30 15:51:20,696 PIL.Image    DEBUG    Importing GifImagePlugin
+2023-05-30 15:51:20,696 PIL.Image    DEBUG    Importing GribStubImagePlugin
+2023-05-30 15:51:20,698 PIL.Image    DEBUG    Importing Hdf5StubImagePlugin
+2023-05-30 15:51:20,699 PIL.Image    DEBUG    Importing IcnsImagePlugin
+2023-05-30 15:51:20,705 PIL.Image    DEBUG    Importing IcoImagePlugin
+2023-05-30 15:51:20,707 PIL.Image    DEBUG    Importing ImImagePlugin
+2023-05-30 15:51:20,710 PIL.Image    DEBUG    Importing ImtImagePlugin
+2023-05-30 15:51:20,713 PIL.Image    DEBUG    Importing IptcImagePlugin
+2023-05-30 15:51:20,714 PIL.Image    DEBUG    Importing JpegImagePlugin
+2023-05-30 15:51:20,714 PIL.Image    DEBUG    Importing Jpeg2KImagePlugin
+2023-05-30 15:51:20,715 PIL.Image    DEBUG    Importing McIdasImagePlugin
+2023-05-30 15:51:20,716 PIL.Image    DEBUG    Importing MicImagePlugin
+2023-05-30 15:51:20,718 PIL.Image    DEBUG    Image: failed to import MicImagePlugin: No module named 'olefile'
+2023-05-30 15:51:20,718 PIL.Image    DEBUG    Importing MpegImagePlugin
+2023-05-30 15:51:20,719 PIL.Image    DEBUG    Importing MpoImagePlugin
+2023-05-30 15:51:20,722 PIL.Image    DEBUG    Importing MspImagePlugin
+2023-05-30 15:51:20,726 PIL.Image    DEBUG    Importing PalmImagePlugin
+2023-05-30 15:51:20,729 PIL.Image    DEBUG    Importing PcdImagePlugin
+2023-05-30 15:51:20,731 PIL.Image    DEBUG    Importing PcxImagePlugin
+2023-05-30 15:51:20,731 PIL.Image    DEBUG    Importing PdfImagePlugin
+2023-05-30 15:51:20,739 PIL.Image    DEBUG    Importing PixarImagePlugin
+2023-05-30 15:51:20,741 PIL.Image    DEBUG    Importing PngImagePlugin
+2023-05-30 15:51:20,741 PIL.Image    DEBUG    Importing PpmImagePlugin
+2023-05-30 15:51:20,742 PIL.Image    DEBUG    Importing PsdImagePlugin
+2023-05-30 15:51:20,744 PIL.Image    DEBUG    Importing QoiImagePlugin
+2023-05-30 15:51:20,754 PIL.Image    DEBUG    Importing SgiImagePlugin
+2023-05-30 15:51:20,756 PIL.Image    DEBUG    Importing SpiderImagePlugin
+2023-05-30 15:51:20,758 PIL.Image    DEBUG    Importing SunImagePlugin
+2023-05-30 15:51:20,760 PIL.Image    DEBUG    Importing TgaImagePlugin
+2023-05-30 15:51:20,762 PIL.Image    DEBUG    Importing TiffImagePlugin
+2023-05-30 15:51:20,763 PIL.Image    DEBUG    Importing WebPImagePlugin
+2023-05-30 15:51:20,765 PIL.Image    DEBUG    Importing WmfImagePlugin
+2023-05-30 15:51:20,767 PIL.Image    DEBUG    Importing XbmImagePlugin
+2023-05-30 15:51:20,770 PIL.Image    DEBUG    Importing XpmImagePlugin
+2023-05-30 15:51:20,772 PIL.Image    DEBUG    Importing XVThumbImagePlugin
+2023-05-30 15:51:21,776 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:51:21,777 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 15:52:09,443 easyocr.easyocr WARNING  Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2023-05-30 15:52:09,449 easyocr.easyocr WARNING  Downloading detection model, please wait. This may take several minutes depending upon your network connection.
+2023-05-30 15:52:24,523 easyocr.easyocr INFO     Download complete
+2023-05-30 15:52:24,524 easyocr.easyocr WARNING  Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
+2023-05-30 15:52:27,803 easyocr.easyocr INFO     Download complete.
+2023-05-30 15:52:31,966 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:52:31,968 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 65536
+2023-05-30 15:52:31,968 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:52:31,969 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 65536
+2023-05-30 15:52:31,973 PIL.Image    DEBUG    Error closing: Operation on closed image
+2023-05-30 15:53:34,187 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:53:34,187 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 15:53:34,868 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:53:34,869 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 15:54:20,756 easyocr.easyocr WARNING  Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2023-05-30 15:54:23,070 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:54:23,070 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 65536
+2023-05-30 15:54:23,070 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 15:54:23,081 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 65536
+2023-05-30 15:54:23,086 PIL.Image    DEBUG    Error closing: Operation on closed image
+2023-05-30 15:56:13,441 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\urls.py changed, reloading.
+2023-05-30 15:56:19,703 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:56:35,979 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 15:56:38,762 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:56:38,778 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:56:38,778 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:56:38,779 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:59:12,291 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\views.py changed, reloading.
+2023-05-30 15:59:13,823 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:59:15,842 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 15:59:16,134 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:59:16,134 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:59:16,134 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:59:16,134 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:59:35,014 django.utils.autoreload INFO     D:\study\denoising-dirty-documents\denoisingdocuments\documents\views.py changed, reloading.
+2023-05-30 15:59:36,603 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-05-30 15:59:39,015 tensorflow   DEBUG    Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-05-30 15:59:39,399 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:59:39,399 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 15:59:39,399 h5py._conv   DEBUG    Creating converter from 7 to 5
+2023-05-30 15:59:39,410 h5py._conv   DEBUG    Creating converter from 5 to 7
+2023-05-30 16:01:05,367 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 16:01:05,367 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 16:01:05,368 PIL.Image    DEBUG    Importing BlpImagePlugin
+2023-05-30 16:01:05,370 PIL.Image    DEBUG    Importing BmpImagePlugin
+2023-05-30 16:01:05,371 PIL.Image    DEBUG    Importing BufrStubImagePlugin
+2023-05-30 16:01:05,372 PIL.Image    DEBUG    Importing CurImagePlugin
+2023-05-30 16:01:05,374 PIL.Image    DEBUG    Importing DcxImagePlugin
+2023-05-30 16:01:05,377 PIL.Image    DEBUG    Importing DdsImagePlugin
+2023-05-30 16:01:05,379 PIL.Image    DEBUG    Importing EpsImagePlugin
+2023-05-30 16:01:05,431 PIL.Image    DEBUG    Importing FitsImagePlugin
+2023-05-30 16:01:05,433 PIL.Image    DEBUG    Importing FitsStubImagePlugin
+2023-05-30 16:01:05,435 PIL.Image    DEBUG    Importing FliImagePlugin
+2023-05-30 16:01:05,436 PIL.Image    DEBUG    Importing FpxImagePlugin
+2023-05-30 16:01:05,438 PIL.Image    DEBUG    Image: failed to import FpxImagePlugin: No module named 'olefile'
+2023-05-30 16:01:05,439 PIL.Image    DEBUG    Importing FtexImagePlugin
+2023-05-30 16:01:05,440 PIL.Image    DEBUG    Importing GbrImagePlugin
+2023-05-30 16:01:05,443 PIL.Image    DEBUG    Importing GifImagePlugin
+2023-05-30 16:01:05,444 PIL.Image    DEBUG    Importing GribStubImagePlugin
+2023-05-30 16:01:05,446 PIL.Image    DEBUG    Importing Hdf5StubImagePlugin
+2023-05-30 16:01:05,447 PIL.Image    DEBUG    Importing IcnsImagePlugin
+2023-05-30 16:01:05,451 PIL.Image    DEBUG    Importing IcoImagePlugin
+2023-05-30 16:01:05,453 PIL.Image    DEBUG    Importing ImImagePlugin
+2023-05-30 16:01:05,455 PIL.Image    DEBUG    Importing ImtImagePlugin
+2023-05-30 16:01:05,456 PIL.Image    DEBUG    Importing IptcImagePlugin
+2023-05-30 16:01:05,457 PIL.Image    DEBUG    Importing JpegImagePlugin
+2023-05-30 16:01:05,458 PIL.Image    DEBUG    Importing Jpeg2KImagePlugin
+2023-05-30 16:01:05,458 PIL.Image    DEBUG    Importing McIdasImagePlugin
+2023-05-30 16:01:05,460 PIL.Image    DEBUG    Importing MicImagePlugin
+2023-05-30 16:01:05,462 PIL.Image    DEBUG    Image: failed to import MicImagePlugin: No module named 'olefile'
+2023-05-30 16:01:05,463 PIL.Image    DEBUG    Importing MpegImagePlugin
+2023-05-30 16:01:05,464 PIL.Image    DEBUG    Importing MpoImagePlugin
+2023-05-30 16:01:05,467 PIL.Image    DEBUG    Importing MspImagePlugin
+2023-05-30 16:01:05,469 PIL.Image    DEBUG    Importing PalmImagePlugin
+2023-05-30 16:01:05,471 PIL.Image    DEBUG    Importing PcdImagePlugin
+2023-05-30 16:01:05,472 PIL.Image    DEBUG    Importing PcxImagePlugin
+2023-05-30 16:01:05,472 PIL.Image    DEBUG    Importing PdfImagePlugin
+2023-05-30 16:01:05,481 PIL.Image    DEBUG    Importing PixarImagePlugin
+2023-05-30 16:01:05,482 PIL.Image    DEBUG    Importing PngImagePlugin
+2023-05-30 16:01:05,483 PIL.Image    DEBUG    Importing PpmImagePlugin
+2023-05-30 16:01:05,483 PIL.Image    DEBUG    Importing PsdImagePlugin
+2023-05-30 16:01:05,485 PIL.Image    DEBUG    Importing QoiImagePlugin
+2023-05-30 16:01:05,487 PIL.Image    DEBUG    Importing SgiImagePlugin
+2023-05-30 16:01:05,488 PIL.Image    DEBUG    Importing SpiderImagePlugin
+2023-05-30 16:01:05,490 PIL.Image    DEBUG    Importing SunImagePlugin
+2023-05-30 16:01:05,491 PIL.Image    DEBUG    Importing TgaImagePlugin
+2023-05-30 16:01:05,494 PIL.Image    DEBUG    Importing TiffImagePlugin
+2023-05-30 16:01:05,494 PIL.Image    DEBUG    Importing WebPImagePlugin
+2023-05-30 16:01:05,497 PIL.Image    DEBUG    Importing WmfImagePlugin
+2023-05-30 16:01:05,499 PIL.Image    DEBUG    Importing XbmImagePlugin
+2023-05-30 16:01:05,501 PIL.Image    DEBUG    Importing XpmImagePlugin
+2023-05-30 16:01:05,503 PIL.Image    DEBUG    Importing XVThumbImagePlugin
+2023-05-30 16:01:06,380 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 16:01:06,381 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 8192
+2023-05-30 16:01:51,605 easyocr.easyocr WARNING  Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2023-05-30 16:01:54,422 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 16:01:54,422 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 65536
+2023-05-30 16:01:54,422 PIL.PngImagePlugin DEBUG    STREAM b'IHDR' 16 13
+2023-05-30 16:01:54,432 PIL.PngImagePlugin DEBUG    STREAM b'IDAT' 41 65536
+2023-05-30 16:01:54,438 PIL.Image    DEBUG    Error closing: Operation on closed image

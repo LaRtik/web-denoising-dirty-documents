@@ -1,0 +1,18 @@
+{% extends "header.html" %}
+
+{% block content %}
+
+{% load crispy_forms_tags %} 
+
+<form action="{% url 'upload'%}" method="post" enctype="multipart/form-data">
+	{% csrf_token %}
+	<fieldset>
+		<legend>
+			<h1>Upload your image to process</h1>
+		</legend>
+		{{ form | crispy }}
+	</fieldset>
+	<button class="btn btn-primary" type="submit">Start processing</button>
+</form>
+
+{% endblock %}
